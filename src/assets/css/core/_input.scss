@@ -1,0 +1,26 @@
+// input style
+.el-input .el-input__inner {
+    border-radius: 0 !important;
+}
+
+.el-input.is-disabled .el-input__inner {
+    background-color: #c2cfd6 !important;
+    border-radius: 0 !important;
+}
+
+.el-input__icon {
+    color: #536c79 !important;
+}
+
+.el-input {
+    width: 100% !important;
+}
+
+.input-box input {
+    border: 1px solid #f86c6b;
+}
+.input-box p {
+    margin-top: .25rem;
+    font-size: .875rem;
+    color: #f86c6b;
+}

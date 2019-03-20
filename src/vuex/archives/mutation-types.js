@@ -1,0 +1,11 @@
+export const AR_GET_GETCODE = 'AR_GET_GETCODE'
+export const AR_GET_LIST = 'AR_GET_LIST'
+export const GET_DATA_LIST = 'GET_DATA_LIST'
+export const GET_SKU_ADDINFO = 'GET_SKU_ADDINFO'
+export const GET_CAL_COST_TYPE = 'GET_CAL_COST_TYPE'
+export const GET_LOCK_INFO = 'GET_LOCK_INFO'
+export const GET_WARE_HOUSE_LIST = 'GET_WARE_HOUSE_LIST'
+// 获取整车详情
+export const GET_CARLOAD_INFO = 'GET_CARLOAD_INFO'
+// 设置整车详情的类型
+export const SET_CARLOAD_DETAIL_TYPE = 'SET_CARLOAD_DETAIL_TYPE'

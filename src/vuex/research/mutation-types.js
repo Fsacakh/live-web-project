@@ -1,0 +1,6 @@
+export const GET_TASK_INFO = "GET_TASK_INFO"
+export const GET_TASK_TYPE = "GET_TASK_TYPE"
+export const GET_TASK_LIST = "GET_TASK_LIST"
+export const GET_TASKTYPE_FLITER = "GET_TASKTYPE_FLITER"
+
+export const SET_QUERY_PARAMS = 'SET_QUERY_PARAMS'

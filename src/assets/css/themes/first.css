@@ -1,0 +1,25 @@
+.nav-link {
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.sidebar .sidebar-nav {
+  background-color: #156d91;
+}
+.open {
+  border-left: 5px solid #fff608;
+}
+.nav-active {
+  background-color: #B3504A !important;
+}
+.nav-dropdown-items {
+  transition: all ease 1s;
+}
+.nav-item.nav-dropdown.router-link-exact-active.router-link-active {
+  border-left: 5px solid #2F4B7A;
+}
+.nav-item.nav-dropdown.router-link-exact-active.router-link-active.open {
+  border-left: 5px solid #fff608 !important;
+}
+.nav-item.nav-dropdown.router-link-exact-active.router-link-active:hover {
+  border-left: 5px solid #20a8d8;
+}

@@ -1,0 +1,1 @@
+export const MO_GET_GETCODE = 'MO_GET_GETCODE'

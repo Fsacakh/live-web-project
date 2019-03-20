@@ -1,0 +1,17 @@
+//用来给当前模块的mutation里的方法来命名的 官方上叫事件类型
+
+export const  QUERY_COMMODITY_BRAND = 'QUERY_COMMODITY_BRAND'
+
+export const AMEND_COMMODITY_BRAND = 'AMEND_COMMODITY_BRAND'
+
+export const QUERY_CONTACTS = 'QUERY_CONTACTS'
+
+export const AMEND_CONTACTS = 'AMEND_CONTACTS'
+
+export const QUERY_IDTYPE = 'QUERY_IDTYPE'
+
+export const AMEND_IDTYPE = 'AMEND_IDTYPE'
+
+export const QUERY_RECEIVER = 'QUERY_RECEIVER' 
+
+export const AMEND_RECEIVER = 'AMEND_RECEIVER'

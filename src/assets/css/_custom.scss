@@ -1,0 +1,195 @@
+// Here you can add other styles
+.border-col-cut-apart {
+    border-right: 2px solid #D1D2D4;
+}
+
+// .tab-default {
+// .nav-pills .nav-link.active {
+//     background-color: #ffffff !important;
+//     color: black;
+// }
+
+// .nav-pills .nav-link {
+//     background-color: #B2BEC6 !important;
+//     color: #ffffff;
+// }
+// }
+
+
+
+.font-bg {
+    font-family: PingFangSC-Regular;
+    font-size: 20px;
+    color: #555555;
+    letter-spacing: -0.41px;
+}
+
+.btn-outline-white {
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: PingFangSC-Semibold;
+    font-size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+    width: 103px;
+    height: 28px;
+    background: transparent;
+}
+
+.btn-succ {
+    width: 120px;
+    height: 30px;
+    background: #5FB870;
+    border: 1px solid #979797;
+    border-radius: 2px;
+    font-family: PingFangSC-Semibold;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-danger-outline {
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #D5303B;
+    letter-spacing: 0;
+    border: 1px solid #D5303B;
+    border-radius: 3px;
+    text-align: center;
+    vertical-align: middle;
+    background: transparent;
+}
+
+.btn-danger {
+    background: #D5303B;
+    border-radius: 3px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.width-632 {
+    width: 900px !important;
+}
+
+.width-1148 {
+    width: 1148px !important;
+}
+
+.width-800 {
+    width: 400px !important;
+}
+
+.box-grey {
+    padding: 20px 20px;
+    background: #F6F6F6;
+    width: 100%;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+.vertical-align-middle {
+    vertical-align: middle;
+}
+
+.progress-bar-blue {
+    background-color: #E2E6EF !important;
+    >.progress-bar {
+         background-color: #3D69A5 !important;
+    }
+}
+
+.flex-direction-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-direction-column {
+    display: flex;
+    flex-direction: column;
+}
+
+/* tab style */
+.my-tab .tab-content {
+    border-top: 1px solid #F2F2F2;
+}
+.my-tab .nav-item {
+    width: 146px;
+    text-align: center;
+    background-color: #fff;
+    border-bottom: 1px solid #F2F2F2;
+}
+.my-tab .nav-item a {
+    color: #333;
+}
+
+.my-tab .nav-pills .nav-link.active {
+    background-color: #fff;
+    color: #333;
+    border-bottom: 2px solid  #ED6F64 !important;
+}
+
+.el-table__empty-block {
+    text-align: left !important;
+}
+
+.el-table__empty-text {
+    position: absolute;
+    left: 0 !important;
+    top: 50% !important;
+    -ms-transform: translate(20%,-50%) !important;
+    transform: translate(20%,-50%) !important;
+    color: #5e7382;
+}
+
+.intertable {
+    background-color: #ddd;
+    width: 90%;
+    margin: 0 auto;
+}
+.intertable>.table{
+        display: table;
+        /* border-collapse: separate; */
+        border-spacing: 0px !important;
+        /* background-color: #c2cfd6 !important; */
+        border: 0 !important;
+}
+.intertable>.table td {
+    border: 0 !important;
+}
+.intertable>.table th {
+    border: 0 !important;
+}
+.intertable>.table tr {
+    background-color: #c2cfd6 !important;
+    border-bottom: 1px solid #888;
+}
+.b-table-details td {
+    background-color: #c2cfd6 !important;
+}
+
+.el-tree-node__content>.el-tree-node__expand-icon {
+    cursor: pointer;
+    width: 0;
+    height: 0;
+    margin-left: 10px;
+    border: solid transparent 8px;
+    border-right-width: 0;
+    border-left-color: #97a8be;
+    border-left-width: 9px;
+    -ms-transform: rotate(0);
+    transform: rotate(0);
+    transition: transform .3s ease-in-out;
+}
+table.b-table>thead>tr>th {
+  position: unset !important;
+}

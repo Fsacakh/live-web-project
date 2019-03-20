@@ -1,0 +1,7 @@
+export const ORDER_LIST = 'ORDER_LIST'
+export const LEADS_LIST = 'LEADS_LIST'
+export const LEADS_CHANNEL = 'LEADS_CHANNEL'
+export const SC_LIST = 'SC_LIST'
+export const PARAM = 'PARAM'
+export const SC_NAME = 'SC_NAME'
+export const MODE_TYPE = 'MODE_TYPE'

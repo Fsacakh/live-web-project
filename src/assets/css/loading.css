@@ -1,0 +1,11 @@
+.el-loading-spinner .el-loading-text {
+    color: #fff;
+    font-size: 18px;
+}
+.el-loading-mask {
+    background-color: rgba(0, 0, 0, 0.2)
+}
+.el-loading-spinner .path {
+    stroke: #fff !important;
+    stroke-width: 5px;
+}
